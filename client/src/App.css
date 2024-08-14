@@ -1,0 +1,6 @@
+@media screen and (-ms-high-contrast: active) {
+    body {
+        background-color: black;
+        color: white;
+    }
+}
